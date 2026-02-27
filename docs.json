@@ -22,11 +22,17 @@
               "guides/create-your-first-game"
             ]
           },
-          "guides/community-arcade",
-          "guides/coins-and-premium",
-          "guides/customize-your-game",
-          "guides/share-and-remix",
-          "guides/sketch-to-game",
+          {
+            "group": "How to use",
+            "icon": "alien-8bit",
+            "pages": [
+              "guides/customize-your-game",
+              "guides/sketch-to-game",
+              "guides/share-and-remix",
+              "guides/community-arcade",
+              "guides/coins-and-premium"
+            ]
+          },
           {
             "group": "Changelog",
             "icon": "alarm-clock",

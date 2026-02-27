@@ -12,33 +12,13 @@
     "tabs": [
       {
         "tab": "Guides",
-        "pages": [
+        "groups": [
           {
             "group": "Getting started",
-            "icon": "rocket",
             "pages": [
-              "introduction",
-              "quickstart",
-              "guides/create-your-first-game"
+              "quickstart"
             ]
-          },
-          {
-            "group": "How to use",
-            "icon": "alien-8bit",
-            "pages": [
-              "guides/customize-your-game",
-              "guides/sketch-to-game",
-              "guides/share-and-remix",
-              "guides/community-arcade",
-              "guides/coins-and-premium"
-            ]
-          },
-          {
-            "group": "Changelog",
-            "icon": "alarm-clock",
-            "pages": []
-          },
-          "changelog/overview"
+          }
         ]
       }
     ]

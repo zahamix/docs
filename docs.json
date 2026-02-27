@@ -15,8 +15,9 @@
         "pages": [
           {
             "group": "Getting started",
+            "icon": "rocket",
             "pages": [
-              "introduction",
+              "guides/introduction",
               "quickstart",
               "guides/create-your-first-game"
             ]

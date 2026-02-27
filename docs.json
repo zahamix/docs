@@ -36,6 +36,19 @@
           "guides/for-educators",
           "overview"
         ]
+      },
+      {
+        "tab": "Untitled Tab",
+        "menu": [
+          {
+            "item": "Untitled Item",
+            "anchors": [
+              {
+                "anchor": "ss"
+              }
+            ]
+          }
+        ]
       }
     ]
   },

@@ -12,13 +12,28 @@
     "tabs": [
       {
         "tab": "Guides",
-        "groups": [
+        "pages": [
           {
             "group": "Getting started",
             "pages": [
-              "quickstart"
+              "introduction",
+              "quickstart",
+              "guides/create-your-first-game"
             ]
-          }
+          },
+          {
+            "group": "How to use",
+            "icon": "alien-8bit",
+            "pages": [
+              "guides/customize-your-game",
+              "guides/sketch-to-game",
+              "guides/share-and-remix",
+              "guides/coins-and-premium",
+              "guides/community-arcade"
+            ]
+          },
+          "guides/for-educators",
+          "overview"
         ]
       }
     ]

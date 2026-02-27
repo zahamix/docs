@@ -12,13 +12,27 @@
     "tabs": [
       {
         "tab": "Guides",
-        "groups": [
+        "pages": [
           {
             "group": "Getting started",
+            "icon": "rocket",
             "pages": [
-              "quickstart"
+              "introduction",
+              "quickstart",
+              "guides/create-your-first-game"
             ]
-          }
+          },
+          "guides/community-arcade",
+          "guides/coins-and-premium",
+          "guides/customize-your-game",
+          "guides/share-and-remix",
+          "guides/sketch-to-game",
+          {
+            "group": "Changelog",
+            "icon": "alarm-clock",
+            "pages": []
+          },
+          "changelog/overview"
         ]
       }
     ]
